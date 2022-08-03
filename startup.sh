@@ -1,0 +1,1 @@
+dotnet run --project ./Lol.Api/Lol.Api.csproj
